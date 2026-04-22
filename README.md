@@ -12,14 +12,10 @@ A personal collection of interview preparation materials, behavioral answers, an
   - Receiving and acting on critical feedback
 - **handy conversion.txt** — Quick reference for system design scale estimates (requests/sec to requests/month)
 
-### `OKX_Interview_Guide_Final.pdf`
-Comprehensive interview guide for OKX, covering technical and behavioral rounds.
-
 ## How to Use
 
 1. **Behavioral prep** — Read through `introduction/introduction.txt` and adapt the STAR stories to your own experience. Practice saying them out loud until they feel natural.
 2. **System design** — Keep `handy conversion.txt` handy when estimating scale; knowing that 400 RPS ≈ 1B requests/month saves mental math during interviews.
-3. **Company-specific** — Review the OKX guide before interviewing at crypto/fintech companies; many of the patterns apply broadly.
 
 ## Tips
 
